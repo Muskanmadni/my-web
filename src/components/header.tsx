@@ -26,7 +26,6 @@ export function Home(){
         </div>
     )
 }
-
 export function Text(){
     return(
         <div>
