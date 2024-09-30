@@ -1,7 +1,7 @@
 import {Header} from "@/components/header";
 import Image from "next/image";
 import picture2 from "@/components/images/picture2.jpeg";
-import { Footer } from "@/components/footer";
+import  Footer  from "@/components/footer";
 
 export default function About(){
     return(
@@ -9,7 +9,7 @@ export default function About(){
             <div>
                 <Header/>
                 <Footer/>
-                <div className="Image">
+                <div className="Image2">
                 <Image src={picture2} width={300} height={400} alt="aboutpicture"></Image>
                 </div>
                 <div className="Text">
