@@ -16,9 +16,6 @@ export function Header(){
             <li>Contact</li>
             </Link>
         </ul>
-        <div className="Image1">
-            <Image src={picture} alt="picture" width={300} height={400} ></Image>
-        </div>
     </div>     
    )
 }
