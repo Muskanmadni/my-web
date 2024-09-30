@@ -33,13 +33,7 @@ export function Text(){
     return(
         <div>
             <div className="Text">
-                <h1>has become increasingly important in today's world, offering numerous benefits across various industries.
-                     AI's ability to analyze vast amounts of data, learn from patterns, and make intelligent decisions has revolutionized
-                      fields like healthcare, finance, manufacturing, and customer service. For instance, AI-powered diagnostic tools can 
-                      assist doctors in detecting diseases earlier, while AI-driven chatbots can provide efficient customer support. Furthermore,
-                       AI is driving innovation in areas such as self-driving cars, personalized medicine, and climate change modeling, demonstrating 
-                       its potential to address complex global challenges
-                </h1>
+                <p>about Ai</p>
             </div>
         </div>
     )
