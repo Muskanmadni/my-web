@@ -31,11 +31,9 @@ export function Text(){
         <div>
             <div className="Text">
                 <p>Artificial Intelligence (AI) is the simulation of human intelligence in machines, especially computer systems.
-                    <br/> 
+                    <br/>
                     These machines are programmed to think like humans and mimic their actions.
                 </p>
-            
-            
             </div>
         </div>
     )

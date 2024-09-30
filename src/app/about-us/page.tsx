@@ -9,7 +9,7 @@ export default function About(){
             <div>
                 <Header/>
                 <Footer/>
-                <div className="Image2">
+                <div className="Image">
                 <Image src={picture2} width={300} height={400} alt="aboutpicture"></Image>
                 </div>
                 <div className="Text">
