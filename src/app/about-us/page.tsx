@@ -22,7 +22,7 @@ export default function About(){
                                 <li>Graphic Designer</li>
                                 <h1 className="Education">My Education</h1>
                                 <li>Matriculation : Computer Science</li>
-                                <li>Intermidiate : Arts</li>
+                                <li>Intermidiate : Computer Science</li>
                                 <li>Diploma (3years) : Software Engnineering</li>
                             </ul>
                     </h1>
