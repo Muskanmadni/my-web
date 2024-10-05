@@ -11,10 +11,12 @@ export default function Contact() {
                 <div className="Text">
                         <ul>
                             <li>Gmail : Muskanmadni153@gmail.com</li>
-                            <li>Contact : 03408051451</li>
+                            <li>Github : https://github.com/Muskanmadni</li>
+                            <li>LinkdIn : https://www.linkedin.com/in/umm-e-habiba-733838277/</li>
 
                         </ul>
                 </div>
+
             </div>
         </div>
     )
